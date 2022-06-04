@@ -50,7 +50,7 @@ mark, rp, rt, ruby, summary, time{display:inline;}
 body{background:#fff; border:0; font:13px Arial,Helvetica,sans-serif; color:#4e4e4e; line-height:20px;}
 .body1{background:url("../images/bg_img2.png") top center no-repeat; height:680px; position:absolute; width:100%; z-index:1;}
 .body2{background:url("../images/top.jpg") top center no-repeat #2d213c;}
-.body3{background:url("../images/line_hor1.jpg") bottom repeat-x #f5f5f5; border-top:1px solid #fff;}
+.body3{background:url("../images/line_hor1.jpg") bottom repeat-x #f5f5f5; border-top:1px solid #fff; padding-top: 7rem; padding-bottom: 12rem;}
 .body4{background:url("../images/line_hor2.jpg") top repeat-x #f5f5f5;}
 
 .main{margin:0 auto; width:900px; position:relative; z-index:2;}
